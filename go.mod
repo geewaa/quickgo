@@ -1,4 +1,4 @@
-module quickgo
+module github.com/geewaa/quickgo
 
 go 1.23
 
